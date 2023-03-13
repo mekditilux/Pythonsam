@@ -27,6 +27,6 @@ while i<6:
 #   for f in fruit:
 #     print(a,f)
 
-for x in range(0,1,2):
-    print(x)
-    pass
+# for x in range(0,1,2):
+#     print(x)
+#     pass
